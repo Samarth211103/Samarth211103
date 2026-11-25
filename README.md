@@ -1,27 +1,51 @@
-# 💫 About Me:
-🚀 B. Tech (C.S.) | Aspiring Data Scientist | Power BI • Python • SQL • Azure ML • Tableau<br><br>I’m Samarth Gupta—a data enthusiast with a poet’s soul and a problem-solver’s mind. Whether I’m building dashboards that reveal hidden business truths or writing verses that explore emotional depth, I thrive at the intersection of logic and creativity.<br><br>🔍 What drives me:<br>- Turning raw data into actionable insights <br>- Designing ethical, impactful predictive models <br>- Exploring AI’s potential in agriculture, sustainability, and wellness <br>- Crafting visual stories that resonate with both analysts and decision-makers<br><br>📊 Recent wins:<br>- Delivered polished dashboards and presentations during my internship at GlobalShala <br>- Built interactive Tableau and Power BI projects on IPL stats, sales trends, and vacation rentals <br>- Completed a personalized wellness reset to boost focus and clarity—because data-driven living starts with self-awareness<br><br>🎯 Next steps:<br>- Earning PL-300 and DP-100 certifications <br>- Building a portfolio that blends technical excellence with emotional intelligence <br>- Transitioning into a high-impact data science or engineering role (₹20L+ package is the goal!)<br><br>Let’s connect if you’re into data, design, or meaningful conversations. I believe the best insights come from asking the right questions—and I’m always ready to ask one more.
+# Hi, I'm Samarth Gupta 👋
 
+**Computer Science Graduate (B.Tech, 8.39 CGPA) · Data Analytics · Applied ML · IT & Networking**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_samarth.g_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-gupta-58b74128b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthgupta195@gmail.com) 
+I turn raw, ambiguous datasets into decision-ready BI dashboards, build high-precision machine learning pipelines, and solve core Computer Science & technical support challenges. Currently working as a **Consultant – Computer Science** at **Chegg India** from Noida, Uttar Pradesh, India.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Samarth211103&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Samarth211103&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth211103&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Samarth211103&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Samarth211103&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/samarth-gupta-58b74128b/)
+[Portfolio](https://www.google.com/search?q=https://portfolio-hazel-two-54.vercel.app/)
+[](mailto:samarthgupta195@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Samarth211103&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ At a Glance
+
+- 🔭 **Currently:** Consultant – Computer Science @ **Chegg India** *(DSA, OS, DBMS, Computer Networks)*
+- 📊 **Analytics Impact:** Cleaned **58+ datasets**, authored **30+ SQL queries**, and shipped **15+ Power BI & Tableau dashboards**—lifting reporting accuracy and data consistency by **25%** across internships at **Codec Technologies Pvt. Ltd.** and **E&ICT Academy IITG | Coding Ninjas**
+- 🤖 **Applied ML:** Built an end-to-end **LightGBM** sensor anomaly-detection pipeline achieving **0.991 ROC-AUC** and **0.847 PR-AUC**
+- 🌐 **IT & Networking:** **Cisco Networking Academy** trained across **13+ hands-on labs** (TCP/IP, DNS, DHCP, Cisco Packet Tracer, Help Desk)
+- 🗣️ **Languages:** English *(Professional Working)* · Hindi *(Native)*
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Stack | Key Outcome |
+| :--- | :--- | :--- |
+| **[Predictive Maintenance — Sensor Anomaly Detection](https://github.com/Samarth211103/Predictive-Maintenance-Anomaly-Detection)** | Python, LightGBM, Scikit-learn | Engineered temporal & log-decoded features with stratified k-fold CV; achieved **0.991 ROC-AUC** & **0.847 PR-AUC** |
+| **[Superstore Sales Analytics Dashboard](https://github.com/Samarth211103/superstore-sales-analytics-dashboard)** | Power BI, DAX, Power Query | Multi-page 4-year retail dashboard covering regional performance, YoY growth, and delivery/returns |
+| **[Ad Campaign Performance Analysis](https://www.google.com/search?q=https://github.com/Samarth211103/Ad_Campaign_Performance_Analysis-Project)** | Python, Excel, Marketing Metrics | Evaluated Facebook Ads CTR/CPC/CPR; identified **₹1.01 CPR** top campaign (117 conversions) & flagged **₹30.55 CPR** waste |
+| **[StayCatin — Data Storytelling \& Visualization](https://www.google.com/search?q=https://github.com/Samarth211103/StayCatin-Project)** | Tableau | Interactive dashboards surfacing top hosts earning up to **$526K** and review-score-to-price correlations |
+
+---
+
+### 🛠️ Tech Stack
+
+- **Programming & Querying:** Python *(Pandas, NumPy, Scikit-learn, LightGBM)* · SQL *(Joins, CTEs, Window Functions, Subqueries)* · MySQL Workbench
+- **BI & Visualization:** Power BI *(DAX, Power Query)* · Tableau · Advanced Excel *(Pivot Tables, Lookups)* · Google Sheets · Matplotlib · Seaborn
+- **IT, Networking & Systems:** TCP/IP · DNS · DHCP · Cisco Packet Tracer · Windows 10/11 · Linux (Ubuntu) · Freshdesk · osTicket · Jira Service Management · Git/GitHub
+
+---
+
+### 🏆 Certifications
+
+- **Networking Basics** & **IT Customer Support Basics** — *Cisco Networking Academy (Oct 2026)*
+- **Data Fundamentals** — *IBM SkillsBuild*
+- **Data Visualization: Empowering Business with Effective Insights** — *Tata Group (Forage)*
+- **Data Analytics Job Simulation** — *Deloitte (Forage)*
+
+---
+
+📫 **Let's connect:** [samarthgupta195@gmail.com](mailto:samarthgupta195@gmail.com) · [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/samarth-gupta-58b74128b/) · [Portfolio](https://www.google.com/search?q=https://portfolio-hazel-two-54.vercel.app/)
